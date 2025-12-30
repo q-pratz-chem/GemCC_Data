@@ -1,6 +1,6 @@
 # GemCC Data
 
-This folder contains the results obtained by using newly introduced GemCC flexible wavefunction-based 
+This folder contains the results obtained by using novel GemCC flexible wavefunction-based 
 methods using **STO-6G basis set** for following molecular systems. 
 
 **1. (H<sub>2</sub>)<sub>2</sub>**   
